@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on develping my front end and back end development skills.
-- 🌱 I’m currently learning Vue.js.
+- 🔭 I’m currently working on becoming a full stack engineer.
+- 🌱 I’m currently learning Vue.js and PHP.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about my projects.
