@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email , phone, visit website for specific details.
 - ⚡ Fun fact: The first computer virus was created in 1983.
 
-Connect with me
+### Connect with me:
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[LinkedIn].svg" />
