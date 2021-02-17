@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking get a full time development possition.
 - 💬 Ask me about my projects.
-- 📫 How to reach me: email , phone, visit website for specific details.
+- 📫 How to reach me: email , phone, visit my website for specific details.
 - ⚡ Fun fact: The first computer virus was created in 1983.
 
 ### Connect with me:
