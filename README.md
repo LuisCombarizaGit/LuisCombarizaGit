@@ -4,7 +4,7 @@
 Here is an overview to get you started:
 
 - 🔭 My goal is to become a full stack engineer.
-- 🌱 I’m currently learning Node.js and PHP.
+- 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking to get a full time development possition.
 - 💬 Ask me about my projects.
